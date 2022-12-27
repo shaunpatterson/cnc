@@ -1,0 +1,297 @@
+{
+    "CURVE_OBJECTS": [
+        {
+            "behavior": 1,
+            "center": [
+                130.4676146692979,
+                11.746577663572182
+            ],
+            "corner_type": 1,
+            "cp1": [
+                [
+                    -124.46000000000008,
+                    3.4290000000000056
+                ],
+                [
+                    -41.48666666666669,
+                    3.4290000000000056
+                ],
+                [
+                    126.21350408071285,
+                    3.4289999999999985
+                ],
+                [
+                    127.63500000000008,
+                    0.08466666666666
+                ],
+                [
+                    127.63500000000008,
+                    -2.007504080712774
+                ],
+                [
+                    41.48666666666671,
+                    -3.4290000000000056
+                ],
+                [
+                    -126.21350408071285,
+                    -3.4289999999999985
+                ],
+                [
+                    -127.63500000000006,
+                    -0.08466666666666
+                ],
+                [
+                    -127.63500000000006,
+                    2.007504080712774
+                ],
+                [
+                    -124.46000000000008,
+                    3.4290000000000056
+                ]
+            ],
+            "cp2": [
+                [
+                    -124.46000000000008,
+                    3.4290000000000056
+                ],
+                [
+                    41.48666666666671,
+                    3.4290000000000056
+                ],
+                [
+                    127.63500000000008,
+                    2.00750408071276
+                ],
+                [
+                    127.63500000000008,
+                    -0.08466666666667244
+                ],
+                [
+                    126.21350408071285,
+                    -3.4290000000000056
+                ],
+                [
+                    -41.48666666666671,
+                    -3.4290000000000056
+                ],
+                [
+                    -127.63500000000008,
+                    -2.00750408071276
+                ],
+                [
+                    -127.63500000000008,
+                    0.08466666666667422
+                ],
+                [
+                    -126.21350408071284,
+                    3.4290000000000056
+                ],
+                [
+                    -124.46000000000008,
+                    3.4290000000000056
+                ]
+            ],
+            "geometryType": "rectangle",
+            "group_id": [
+            ],
+            "height": 6.858000000000011,
+            "id": "{2d66ad09-7f8d-4555-8e59-40ded2ff7f55}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    -124.46000000000008,
+                    3.4290000000000056
+                ],
+                [
+                    124.46000000000006,
+                    3.4290000000000056
+                ],
+                [
+                    127.63500000000008,
+                    0.25399999999999245
+                ],
+                [
+                    127.63500000000008,
+                    -0.2540000000000049
+                ],
+                [
+                    124.46000000000006,
+                    -3.4290000000000056
+                ],
+                [
+                    -124.46000000000008,
+                    -3.4290000000000056
+                ],
+                [
+                    -127.63500000000006,
+                    -0.2539999999999907
+                ],
+                [
+                    -127.63500000000008,
+                    0.2540000000000049
+                ],
+                [
+                    -124.46000000000006,
+                    3.4290000000000056
+                ],
+                [
+                    -124.46000000000008,
+                    3.4290000000000056
+                ]
+            ],
+            "position": [
+                130.4676146692979,
+                11.746577663572182
+            ],
+            "radius": 3.175,
+            "smooth": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "tabs": [
+            ],
+            "width": 255.27000000000015
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAYlQTkcNChoKAAAADUlIRFIAAAABAAAAAQgAAAAAOn6bVQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAApJREFUCJljYAAAAAIAAfRxZKYAAAAASUVORK5CYII=",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 76.19999999999999,
+        "MACHINE": "Shapeoko Pro",
+        "MACHINE_TYPE": "Shapeoko",
+        "MATERIAL": "Hardwood",
+        "RETRACT": 12.7,
+        "THICKNESS": 23.7744,
+        "WIDTH": 301.625,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "build_num": 743,
+        "grid_enabled": true,
+        "grid_spacing": 6.35,
+        "minimum_build_num": 524,
+        "version": 1
+    },
+    "REQUIRES_PRO": false,
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_GROUP_OBJECTS": [
+        {
+            "TOOLPATH_OBJECTS": [
+                {
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{2d66ad09-7f8d-4555-8e59-40ded2ff7f55}"
+                        }
+                    ],
+                    "enable_ramping": false,
+                    "enabled": true,
+                    "end_depth": "23.774",
+                    "ignore_tabs": false,
+                    "name": "Contour Toolpath 10",
+                    "ofset_dir": 1,
+                    "ramp_angle": 20,
+                    "speeds": {
+                        "feedrate": 1143,
+                        "plungerate": 381,
+                        "rpm": 18000
+                    },
+                    "start_depth": "0.000",
+                    "stepdown": 0.7619999999999999,
+                    "stepover": 3,
+                    "tab_height": 3.175,
+                    "tab_width": 3.175,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 1.5875,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 0.38099999999999995,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "101",
+                        "name": "",
+                        "number": 101,
+                        "overall_length": 3.175,
+                        "plungerate": 381,
+                        "read_only": true,
+                        "slot_depth": 0.7619999999999999,
+                        "slot_feedrate": 1143,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1143,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 5,
+                        "type": 1,
+                        "url": "https://shop.carbide3d.com/products/101-125-ball-cutter-qty-3",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
+                        "vendor": "Carbide 3D"
+                    },
+                    "toolpath_layers": [
+                    ],
+                    "type": "contour",
+                    "uuid": "{ebfbd396-b3f2-431f-b6fb-267360db86c2}"
+                }
+            ],
+            "enabled": true,
+            "name": "Group 1",
+            "uuid": "{3199b2dd-14bd-4158-9083-45591045aead}"
+        }
+    ],
+    "active_layer": "",
+    "layers": [
+        {
+            "blue": 0,
+            "green": 0,
+            "locked": false,
+            "name": "DEFAULT",
+            "red": 0,
+            "uuid": "",
+            "visible": true
+        }
+    ]
+}
+
+
+
+
+MODELV1
+
+
+
+xEá±  ü •L,‹≈ú =LòÜÇéñ‚I∏ÊÓd^€Ô¸≈Ûr£a'”ø„
